@@ -47,7 +47,8 @@ Step 3: Installation and Deployment of Honeypot
 *Important: Before install cowrie honey make sure to switch to a decoy user  
 
 Installing honeypot
-<img width="609" height="376" alt="3" src="https://github.com/user-attachments/assets/32d0dee4-76f3-4e2a-97ef-bc41a138327a" />
+<img width="609" height="376" alt="3" src="https://github.com/user-attachments/assets/32d0dee4-76f3-4e2a-97ef-bc41a138327a" /><br>
+
 
 
 
