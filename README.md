@@ -2,14 +2,14 @@
 **Building an SSH Honeypot to lure attackers using Azure VM and Splunk to understand real-world attacks.**
 
 ## Objective
-The Honeypot project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs using Splunk, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Honeypot project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs using Splunk and created honeypot to mimic real world cyber attack. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Cloud Security & Infrastrcuture hardening
+- SIEM Data pipeline & analytics
+- Honeypot Deception Deployment
+- Cloud Firewall configuration
+- Advanced linux command
 
 ### Tools Used
 - Microsoft Azure
@@ -59,6 +59,7 @@ Changed server naming for deception to make the honeypot look like a high-value 
 Enabled Telnet to expand attack surface.
 
 <img width="600" height="250" alt="Enable Telnet" src="https://github.com/user-attachments/assets/2379f212-3d77-4ed7-813a-b61db3889bfa" />
+
 
 **Result: First 5 minutes of deployment**
 
