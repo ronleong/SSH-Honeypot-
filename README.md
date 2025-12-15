@@ -68,6 +68,7 @@ Change server naming for deception to make honeypot look like a high value targe
 <img width="570" height="363" alt="change server" src="https://github.com/user-attachments/assets/639b5764-ae79-4198-873b-ddf8e4d2db43" />
 <p></p>
 
+<p></p>
 Enable telnet to expand attack
 <img width="591" height="224" alt="telnet" src="https://github.com/user-attachments/assets/2379f212-3d77-4ed7-813a-b61db3889bfa" />
 <p></p>
