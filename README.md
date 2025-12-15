@@ -50,8 +50,10 @@ Installing honeypot
 <img width="609" height="376" alt="3" src="https://github.com/user-attachments/assets/32d0dee4-76f3-4e2a-97ef-bc41a138327a" />
 
 
+
 Starting honeypot
 <img width="619" height="147" alt="start" src="https://github.com/user-attachments/assets/3da2cbc4-6a6c-4436-a0bc-68462d26ca96" />
+
 
 
 Configure the decoy server and telnet for better attack engagement
