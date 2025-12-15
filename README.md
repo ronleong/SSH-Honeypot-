@@ -35,9 +35,11 @@ Configure NSG
 Step 2: Secure SSH Key on Local Machine
 
 Using icacls command to lock down private key before log into VM
+
 <img width="611" height="130" alt="1" src="https://github.com/user-attachments/assets/b713e0fb-efb8-4a98-be48-b62cb900436d" />
 
 Connect to Azure Virtual Machine
+
 <img width="608" height="250" alt="2" src="https://github.com/user-attachments/assets/ec6f6fc0-7e50-409c-889f-109cf5996985" />
 
 
