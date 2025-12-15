@@ -20,7 +20,7 @@ The Honeypot project aimed to establish a controlled environment for simulating 
 -Splunk
 -Powershell
 
-<div align="left">
+
 ## Steps
 Step 1: Setting up Azure Virtual Machine
 
@@ -64,8 +64,16 @@ Starting honeypot
 
 Configure the decoy server and telnet for better attack engagement
 
+Change server naming for deception to make honeypot look like a high value target
 <img width="570" height="363" alt="change server" src="https://github.com/user-attachments/assets/639b5764-ae79-4198-873b-ddf8e4d2db43" />
+<p></p>
+
+Enable telnet to expand attack
 <img width="591" height="224" alt="telnet" src="https://github.com/user-attachments/assets/2379f212-3d77-4ed7-813a-b61db3889bfa" />
+<p></p>
+
+First 5 minutes of deployment
+<img width="992" height="251" alt="break into honeypot" src="https://github.com/user-attachments/assets/6cd34735-2a1e-439d-930d-9930acc1ec9e" />
 <p></p>
 
 Step 4: Start splunk and collect log
@@ -80,5 +88,5 @@ Virtualization of attack information
 <img width="1250" height="407" alt="splunk 2" src="https://github.com/user-attachments/assets/0fba43ab-8e2b-4236-8efc-0ab4ffc9c85a" />
 <p></p>
 
-</div>
+
 
