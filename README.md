@@ -75,6 +75,8 @@ Enable telnet to expand attack
 <p></p>
 
 <p></p>
+
+
 First 5 minutes of deployment
 
 <img width="992" height="251" alt="break into honeypot" src="https://github.com/user-attachments/assets/6cd34735-2a1e-439d-930d-9930acc1ec9e" />
