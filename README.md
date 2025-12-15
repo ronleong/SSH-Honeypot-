@@ -36,10 +36,12 @@ Configure NSG
 Step 2: Secure SSH Key on Local Machine
 
 Using icacls command to lock down private key before log into VM
+
 <img width="700" height="250" alt="1" src="https://github.com/user-attachments/assets/b713e0fb-efb8-4a98-be48-b62cb900436d" />
 
 
 Connect to Azure Virtual Machine
+
 <img width="700" height="250" alt="2" src="https://github.com/user-attachments/assets/ec6f6fc0-7e50-409c-889f-109cf5996985" />
 
 
@@ -48,16 +50,19 @@ Step 3: Installation and Deployment of Honeypot
 *Important: Before install cowrie honey make sure to switch to a decoy user  
 
 Installing honeypot
-<img width="609" height="376" alt="3" src="https://github.com/user-attachments/assets/32d0dee4-76f3-4e2a-97ef-bc41a138327a" /><br>
+
+<img width="609" height="376" alt="3" src="https://github.com/user-attachments/assets/32d0dee4-76f3-4e2a-97ef-bc41a138327a" />
 
 
 
 Starting honeypot
+
 <img width="619" height="147" alt="start" src="https://github.com/user-attachments/assets/3da2cbc4-6a6c-4436-a0bc-68462d26ca96" />
 
 
 
 Configure the decoy server and telnet for better attack engagement
+
 <img width="570" height="363" alt="change server" src="https://github.com/user-attachments/assets/639b5764-ae79-4198-873b-ddf8e4d2db43" />
 <img width="591" height="224" alt="telnet" src="https://github.com/user-attachments/assets/2379f212-3d77-4ed7-813a-b61db3889bfa" />
 
