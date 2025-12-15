@@ -20,6 +20,7 @@ The Honeypot project aimed to establish a controlled environment for simulating 
 -Splunk
 -Powershell
 
+<div align="center">
 ## Steps
 Step 1: Setting up Azure Virtual Machine
 
@@ -71,5 +72,5 @@ Virtualization of attack information
 <img width="1264" height="557" alt="splunk1" src="https://github.com/user-attachments/assets/b8567106-9a32-4d96-91d0-c9a9acd260b8" />
 <img width="1250" height="407" alt="splunk 2" src="https://github.com/user-attachments/assets/0fba43ab-8e2b-4236-8efc-0ab4ffc9c85a" />
 
-
+</div>
 
